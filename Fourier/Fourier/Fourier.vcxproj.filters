@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Delaunay\edge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Delaunay\numeric.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Delaunay\triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Delaunay\vector2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Delaunay\delaunay.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Pen.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Delaunay\delaunay.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Delaunay\edge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Delaunay\numeric.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Delaunay\triangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Delaunay\vector2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader\arrow.vs" />
+    <None Include="shader\binProcess.fs" />
+    <None Include="shader\blurProcess.fs" />
+    <None Include="shader\board.fs" />
+    <None Include="shader\board.vs" />
+    <None Include="shader\edgeProcess.fs" />
+    <None Include="shader\edgeProcess.vs" />
+    <None Include="shader\gradientCalculate.fs" />
+    <None Include="shader\grayProcess.fs" />
+    <None Include="shader\NMS.fs" />
+    <None Include="shader\test.fs" />
+    <None Include="shader\arrow.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="img\img1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="img\img2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+﻿  main.cpp
+d:\opengl projects\fourier\fourier\main.cpp(446): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(537): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(539): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl projects\fourier\fourier\main.cpp(545): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(546): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\opengl projects\fourier\fourier\main.cpp(590): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(591): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\opengl projects\fourier\fourier\main.cpp(609): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(615): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(871): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(889): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(902): warning C4018: “<”: 有符号/无符号不匹配
+d:\opengl projects\fourier\fourier\main.cpp(920): warning C4018: “<”: 有符号/无符号不匹配
+  Fourier.vcxproj -> D:\OpenGL Projects\Fourier\Debug\Fourier.exe
