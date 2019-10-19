@@ -23,7 +23,7 @@
 2. glm 库
 3. 三角剖分库 https://github.com/Bl4ckb0ne/delaunay-triangulation
 4. FFTW 库（Windows）: http://www.fftw.org/install/windows.html
- FFTW 库（macOS）: https://download.csdn.net/download/qq_38130710/10608395
+FFTW 库（macOS）: https://download.csdn.net/download/qq_38130710/10608395
 macOS 下解压 .deb 文件: https://mrmad.com.tw/macos-dpkg-deb
 【32位还是64位请查看 vs2017 所建立项目中默认的引用目录，例如 VC_referencesPath_x86 为32位。另外，一定要将三个 xxx.dll 放在 xxx.vcxproj 同路径下，项目中默认放置的是32位文件。目前还不支持 macOS Catalina 10.15 [请参阅此链接](http://www.finkproject.org/)】
 
