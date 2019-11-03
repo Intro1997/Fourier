@@ -52,6 +52,7 @@ macOS 下解压 .deb 文件: https://mrmad.com.tw/macos-dpkg-deb
 #### 4. 效果和效率
 &emsp;&emsp;由于未作采样点简化，导致在窗口尺寸为 700 *700 时，样例图片中的 img1.jpg 需要绘制 7158 个像素点，每个像素点需要绘制 7158 个箭头，因此共需要绘制 7158 * 7158 次数，目前还没有想到好的解决方案。测试视频（延时摄影）和所用时间如下：
 img1.jpg（700 * 700 窗口尺寸）:
+
 <img src="/example/img1.gif">
 ![img1](/example/img1.png)
 
