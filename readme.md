@@ -54,8 +54,11 @@ macOS 下解压 .deb 文件: https://mrmad.com.tw/macos-dpkg-deb
 img1.jpg（700 * 700 窗口尺寸）:
 
 <img src="/example/img1.gif">
+
 ![img1](/example/img1.png)
 
 img2.jpg（300 * 300 窗口尺寸）:
+
 <img src="/example/img2.gif">
+
 ![img2](/example/img2.png)
